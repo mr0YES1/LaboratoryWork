@@ -1,1 +1,1 @@
-# LaboratoryWorkC++
+# LaboratoryWork
